@@ -10,13 +10,13 @@ nav:
     - Installation Guide: course_prep/software_install.md
     - Coding Bootcamp: course_prep/course_prep.md
   - Classes:
-    - Week 1 - Social Media: week_01.md
-    - Week 2 - Online Reputation: week_02.md
-    - Week 3 - Casuality: week_03.md
-    - Week 4 - Word of Mouth: week_04.md
-    - Week 5 - Influencers: week_05.md
-    - Week 6 - Viral Marketing: week_06.md
-    - Week 7 - Social Advertising: week_07.md
+    - Week 1 - Social Media: classes/week_01.md
+    - Week 2 - Online Reputation: classes/week_02.md
+    - Week 3 - Casuality: classes/week_03.md
+    - Week 4 - Word of Mouth: classes/week_04.md
+    - Week 5 - Influencers: classes/week_05.md
+    - Week 6 - Viral Marketing: classes/week_06.md
+    - Week 7 - Social Advertising: classes/week_07.md
   - Assessment: 
     - Final Project: final_project.md
     - Group Assignments: group_assignment.md
