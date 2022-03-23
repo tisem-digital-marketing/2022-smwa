@@ -2,9 +2,10 @@ site_name: Social Media & Web Analytics @ TiSEM, 2022
 
 nav:
   - Home: 
-    - Welcome: index.md
-    - Announcements: announcements.md
-    - About the Instructors: about.md
+    - Welcome: home/index.md
+    - Announcements: home/announcements.md
+    - Course Objectives: home/course_objectives.md
+    - Meet the Instructors: home/instructors.md
   - Course Preparation:
     - Installation Guide: software_install.md
     - Coding Bootcamp: course_prep.md
