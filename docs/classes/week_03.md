@@ -1,4 +1,4 @@
-# Week 2 - Online Reputation
+# Online Reputation
 
 ## Required Readings
 
@@ -8,44 +8,29 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Promotional reviews: An empirical investigation of online review manipulation](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2304)
 * [Measuring and Managing the Externality of Managerial Responses to Online Customer Reviews][chen-etal]
 
+This book is a "go-to" for text analytics:
+
+* [Tidy Text Mining with R][tidytext]
+    * Chapters 1, 2 and 3
+
 ## Video Lecture
 
 * [Slides: Online Reputation][lecture-slides-02]
 * Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc)
 
+## Computing Lecture
 
-<!-- * Part 1: Online Reputation
-* Part 2: Fixed Effects in Regression
-* Part 3: Understanding Difference in Differences -->
+* Intro to Text Analytics
 
-## Analytics Notes
+## Lab Section
 
-We'll need some concepts from Linear Regression to work through the Lab & understand lecture content:
+* Group Presentations
+* Review of Lab Assignment 2
+## Lab Assignment
 
-* Review of Basic Concepts: Chapters 3, 4, 5, 6 of [these notes](https://scpoecon.github.io/ScPoEconometrics/)
-    * Based on the pre-course survey, many of you are already familiar with these concepts
-* Omitted Variables Bias (Chapter 7.5) and Panel Data (Chapter 12) of [these notes](https://scpoecon.github.io/ScPoEconometrics/)
-* [Getting Standard Errors Right][regression-errors]
-* [Linear Regression with `R`][regression-r]
+* [Link][lab-03] to GitHub repository 
+<!-- * [Suggested Solutions][lab-03-s] -->
 
-## Self Guided Lab
-
-* [Link][lab-02] to GitHub repository 
-    * Questions with an answer template contained in repo
-* [Suggested Solutions][lab-02-s]
-
-## Quiz
-
-* [Link][quiz-02] to Quiz on Canvas
-    * **Due by 23.59 on 30 April 2021**
-
-<!-- * [Link][quiz-02] to Quiz on Canvas
-    * **Due by 23.59 on 30 April 2021** -->
-
-## Discussion Class
-
-* Submit the topics you want to discuss in our live session on **May 6** and **May 7**
-    * Fill in [this survey][week02-survey] before 23.59 on Friday April 30
 ## Additional Readings
 
 These readings are optional, and designed to give interested students a place to look for some further information.
@@ -65,13 +50,8 @@ These readings are optional, and designed to give interested students a place to
 [orm-chev]: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2018.1090
 [orm-cv]: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2015.0912
 [chen-etal]: https://repository.arizona.edu/bitstream/handle/10150/632181/2%20ISR-MR-Paper.pdf?sequence=1
+[tidytext]: https://www.tidytextmining.com/
 
-[quiz-02]: https://tilburguniversity.instructure.com/courses/7508/quizzes
-[lab-02-s]: ../assets/labs/lab-02_solution.pdf
-
-[regression-errors]: ../assets/lectures/week-02/regression-standard-errors.pdf
-[regression-r]: ../assets/lectures/week-02/regression-r.pdf
-
+[lab-03]: https://github.com/tisem-digital-marketing/smwa-lab-03
+[lab-03-s]: ../assets/labs/lab-03_solution.pdf
 [lecture-slides-02]: ../assets/lectures/week-02/week-02-slides.pdf
-[lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
-[week02-survey]: https://forms.gle/Tg7ZpULXBpXffD1r9

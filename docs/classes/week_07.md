@@ -1,4 +1,4 @@
-# Week 7 - Social Media and Advertising
+# Social Media and Advertising
 
 ## Required Readings
 
@@ -13,16 +13,19 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Slides][lecture-slides-07]
 * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGV7IX9hxDS_xYRDX4_4-QOg)
 
-## Self-Guided Lab
+## Computer Lecture
+
+* Measuring Influence in a Network
+* Class Review
+
+## Lab Section
+
+* Group Presentations
+* Review of Lab Assignment 6
+
+## Lab Assignment
 
 No new lab this week!
-
-## Quiz
-<!-- * [Link][quiz-07] to Quiz on Canvas -->
-
-* Quiz on Canvas
-    * Posted on Tuesday
-    * **Due by 23.59 on 4th of June 2021**
 
 [gordon]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144
 [gong]: https://dspace.mit.edu/handle/1721.1/120756
