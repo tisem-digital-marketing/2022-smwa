@@ -7,8 +7,8 @@ nav:
     - Course Objectives: home/course_objectives.md
     - Meet the Instructors: home/instructors.md
   - Course Preparation:
-    - Installation Guide: software_install.md
-    - Coding Bootcamp: course_prep.md
+    - Installation Guide: course_prep/software_install.md
+    - Coding Bootcamp: course_prep/course_prep.md
   - Classes:
     - Week 1 - Social Media: week_01.md
     - Week 2 - Online Reputation: week_02.md

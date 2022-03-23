@@ -1,22 +1,3 @@
-# Preparing for the Course
-
-## Course Introduction
-
-Please watch the course introduction videos:
-
-* [Slides](assets/lectures/course_prep/smwa_intro.pdf)
-* Watch the Videos as a [playlist](https://www.youtube.com/watch?v=b8v6ZjOyPNA&list=PL9QkA7C7GRGVct5aKmivJXzhXKfA0tMWn), or individually:
-    * [Welcome](https://youtu.be/b8v6ZjOyPNA)
-    * [Logistics](https://youtu.be/AEWbQ16521A)
-    * [Meet the Instructors: Lachlan](https://youtu.be/mgsf25doADM)
-    * [Meet the Instructors: Hendrik](https://youtu.be/x1Fes2cd3uE)
-    * [What is Social Media Analytics](https://youtu.be/Lj0hbp2siIY)
-    * [Topic Coverage](https://youtu.be/zL08rQ2dwWU)
-    * [Assessment](https://youtu.be/KTLTdwLTQLc)
-    * [Recap](https://youtu.be/qyRuREG7nuk)
-
-## Coding Bootcamp
-
 * [Coding Camp Intro Slides](assets/lectures/course_prep/codecamp.pdf)
 * [Watch the Coding Camp Intro Video](https://youtu.be/kPZdgpJXHg0)
 
@@ -50,6 +31,12 @@ Please work through the following DataCamp Courses:
 4. [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse) (All Modules)
 5. [Working with Data in the Tidyverse](https://learn.datacamp.com/courses/working-with-data-in-the-tidyverse) (All Modules)
 6. [Reporting with R Markdown](https://learn.datacamp.com/courses/reporting-with-rmarkdown) (Modules 1 - 3)
+
+### RStudio Projects
+
+* [General Tips on working with R and RStudio](https://rstats.wtf/save-source.html)
+* [Using RStudio Projects](https://www.youtube.com/watch?v=hKoSJGWnFFA)
+* [Project Orientated Workflows](https://rstats.wtf/project-oriented-workflow.html)
 
 ### Working with Git and R
 
