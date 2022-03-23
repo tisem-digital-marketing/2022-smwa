@@ -1,0 +1,32 @@
+site_name: Social Media & Web Analytics @ TiSEM, 2021
+pages:
+- Course Home Page: index.md
+- Announcements: announcements.md
+- Schedule: schedule.md
+- About the Instructors: about.md
+- Software Installation: software_install.md
+- Coding Tips: coding_tips.md
+- Final Project: final_project.md
+- Group Assignments: group_assignment.md
+- Course Preparation: course_prep.md
+- Week 1 - Social Media: week_01.md
+- Week 2 - Online Reputation: week_02.md
+- Week 3 - Casuality: week_03.md
+- Week 4 - Word of Mouth: week_04.md
+- Week 5 - Influencers: week_05.md
+- Week 6 - Viral Marketing: week_06.md
+- Week 7 - Social Advertising: week_07.md
+# - Acknowledgements: acknowledgements.md
+- Social Rules: social_rules.md
+- Code of Conduct: conduct.md
+- License: license.md
+- Citation: citation.md
+theme: material
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_css:
+  - stylesheets/extra.css

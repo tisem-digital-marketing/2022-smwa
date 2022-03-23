@@ -1,0 +1,8 @@
+Lesson: 2022-spring
+Title: 2022 Social Media & Web Analytics Homepage
+Version: 2022.0.1
+Authors: person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = c("aut", "cre"))
+Maintainer: Lachlan Deer <lachlan.deer@gmail.com>
+Description: Course Homepage. Built using `Mkdocs.`
+License: CC-BY-NC-SA
+Encoding: UTF-8
