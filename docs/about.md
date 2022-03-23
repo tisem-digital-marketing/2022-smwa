@@ -1,3 +1,8 @@
+---
+hide:
+  # - navigation
+  - toc
+---
 # Meet Your Instructors
 
 ## Lachlan Deer

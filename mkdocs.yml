@@ -38,3 +38,9 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 extra_css:
   - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tisem-digital-marketing
+    - icon: fontawesome/brands/slack
+      link: https://tisem-smwa.slack.com
