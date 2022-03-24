@@ -5,6 +5,7 @@ nav:
     - Welcome: home/index.md
     - Announcements: home/announcements.md
     - Course Objectives: home/course_objectives.md
+    - Schedule: home/schedule.md
     - Meet the Instructors: home/instructors.md
   - Course Preparation:
     - Installation Guide: course_prep/software_install.md
@@ -17,9 +18,12 @@ nav:
     - Week 5: classes/week_05.md
     - Week 6: classes/week_06.md
     - Week 7: classes/week_07.md
-  - Assessment: 
-    - Final Project: final_project.md
-    - Group Assignments: group_assignment.md
+  - Assessment:
+    - Summary: assessment/summary.md 
+    # - Final Project: assessment/final_project.md
+    - Technical Assignments: assessment/group_assignment.md
+    - Presentations: assessment/presentations.md
+    - Final Exam: assessment/exam.md
   - Code of Conduct:
     - Social Rules: social_rules.md
     - Code of Conduct: conduct.md
