@@ -24,8 +24,8 @@ Please fill out the [pre-course survey](https://forms.gle/sqqjx1kmasjH8QHJ7) bef
 
 Discussion with the instructors and with your peers will take place on the [Slack](https://slack.com/) messaging platform.
 
-* [Sign up](https://tisem-smwa.slack.com/signup#/) to our Slack chat by creating an account with your `@tilburguniversity.edu` email address
-* [Log in](https://tisem-smwa.slack.com/) once you have created an account.
+* [Sign up](https://tisem-smwa-2022.slack.com/signup#/) to our Slack chat by creating an account with your `@tilburguniversity.edu` email address
+* [Log in](https://tisem-smwa-2022.slack.com/) once you have created an account.
 
 Contact us via email if you cannot sign up or log in.
 
