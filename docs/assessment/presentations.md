@@ -29,36 +29,36 @@ No presentations.
 
 **Week 2**
 
-Group 1 A:
+Group 1 A: TBA
 
-Group 1 B:
+Group 1 B: TBA
 
 **Week 3**
 
-Group 1 C:
+Group 1 C: TBA
 
-Group 1 D:
+Group 1 D: TBA
 
 **Week 4**
 
-Group 1 E:
+Group 1 E: TBA
 
-Group 2 F:
+Group 2 F: TBA
 
 **Week 5**
 
-Group 2 A:
+Group 2 A: TBA
 
-Group 2 B:
+Group 2 B: TBA
 
 **Week 6**
 
-Group 2 C:
+Group 2 C: TBA
 
-Group 2 D:
+Group 2 D: TBA
 
 **Week 7**
 
-Group 2 E:
+Group 2 E: TBA
 
-Group 2 F:
+Group 2 F: TBA
