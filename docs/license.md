@@ -10,7 +10,7 @@ This initiative advocates for transparency and accessibility in research and tea
 ## Instructional material
 
 All instructional material made available under the course titled "Social Media and Web Analytics"
- and authored by Lachlan Deer and Henrik de With is
+ and authored by Lachlan Deer is
 made available under the [Creative Commons Attribution
 license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
@@ -51,7 +51,7 @@ Notices:
 
 ## Software
 
-Except where otherwise noted, the example programs and other software provided by Lachlan Deer and Henrik de With are made available under the [OSI][osi]-approved
+Except where otherwise noted, the example programs and other software provided by Lachlan Deer is made available under the [OSI][osi]-approved
 [MIT license][mit-license].
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
