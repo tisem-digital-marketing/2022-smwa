@@ -36,7 +36,7 @@ The following types of behavior are unacceptable in our course, both online and 
   It’s important that everyone can trust that only other course participants will be in the space - it allows people to speak freely, feel comfortable leaving their belongings unattended, and trust that everyone is being held to the expectations in this code of conduct. 
   This is different from all the rest, but is nevertheless a code of conduct violation.
 
-### Behavior that jeopardizes Social Media and Web Analytics' credibilitys
+### Behavior that jeopardizes Social Media and Web Analytics' credibility
 
 While the class is a learning community, it's also a community of friends. 
 We ask you to be aware of the fact that conversations that may be appropriate within the context of a specific friendship or relationship with another course participant may be inappropriate in the our course spaces or in a group conversation with course participants you don't know well.
