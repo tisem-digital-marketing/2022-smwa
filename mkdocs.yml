@@ -27,9 +27,9 @@ nav:
   - Code of Conduct:
     - Social Rules: social_rules.md
     - Code of Conduct: conduct.md
-  - Misc.:
-    - License: license.md
-    - Citation: citation.md
+  - License:
+    - License: license/license.md
+    - Citation: license/citation.md
 theme: 
   name: material
   features:
