@@ -1,4 +1,4 @@
-# Course Website: Social Media and Web Analytics, 2021-TiSEM
+# Course Website: Social Media and Web Analytics, 2022-TiSEM
 
 [![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml/badge.svg)](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml)
 
@@ -49,10 +49,10 @@ Please cite as:
 
 Deer, Lachlan. (2022).
 "Social Media and Web Analytics".
-April 2022 (Version v2022.1.0). url = https://tisem-digital-marketing.github.io/2022-smwa
+April 2022 (Version v2022.0.0). url = https://tisem-digital-marketing.github.io/2022-smwa
 
 ```
-@misc{ddw2022,
+@misc{smwa2022,
       title={"Social Media and Web Analytics"},
       author={Lachlan Deer},
       year={2022},
