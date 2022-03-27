@@ -4,10 +4,10 @@ nav:
   - Home: index.md
   - About the Course: 
     #- Welcome: home/index.md
-    - Announcements: home/announcements.md
-    - Course Objectives: home/course_objectives.md
-    - Schedule: home/schedule.md
-    - Meet the Instructors: home/instructors.md
+    - Announcements: about/announcements.md
+    - Course Objectives: about/course_objectives.md
+    - Schedule: about/schedule.md
+    - Meet the Instructors: about/instructors.md
   - Course Preparation:
     - Installation Guide: course_prep/software_install.md
     - Coding Bootcamp: course_prep/course_prep.md

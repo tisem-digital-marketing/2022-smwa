@@ -13,7 +13,7 @@ This course introduces students to recent developments in the online marketing l
 
 :fontawesome-solid-circle-exclamation: [Course Syllabus](assets/syllabus.pdf)
 
-:fontawesome-solid-bell: [Announcements](./announcements)
+:fontawesome-solid-bell: [Announcements](about/announcements)
 
 ## Pre-Course Survey
 
