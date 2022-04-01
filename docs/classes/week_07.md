@@ -10,8 +10,10 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-* [Slides][lecture-slides-07]
-* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGV7IX9hxDS_xYRDX4_4-QOg)
+Coming Soon
+
+<!-- * [Slides][lecture-slides-07]
+* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGV7IX9hxDS_xYRDX4_4-QOg) -->
 
 ## Computer Lecture
 

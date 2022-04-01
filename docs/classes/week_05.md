@@ -15,13 +15,15 @@ This book is a "go-to" for text analytics:
 
 ## Video Lecture
 
-* [Slides][lecture-slides-05]
-* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXTPHyyUtAsN7d9bEHx1pYL)
+Coming Soon
 
+<!-- * [Slides][lecture-slides-05]
+* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXTPHyyUtAsN7d9bEHx1pYL) -->
 
 ## Computing Lecture
 
 * Next steps in Text Analytics
+
 ## Lab Section
 
 * Group Presentations

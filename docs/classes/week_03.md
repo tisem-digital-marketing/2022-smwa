@@ -15,8 +15,10 @@ This book is a "go-to" for text analytics:
 
 ## Video Lecture
 
-* [Slides: Online Reputation][lecture-slides-02]
-* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc)
+Coming Soon
+
+<!-- * [Slides: Online Reputation][lecture-slides-02]
+* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc) -->
 
 ## Computing Lecture
 

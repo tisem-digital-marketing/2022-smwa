@@ -9,8 +9,10 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-* [Slides][lecture-slides-04]
-* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXJkG_ezG3YtI_9mfsn3g2V)
+Coming Soon
+
+<!-- * [Slides][lecture-slides-04]
+* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXJkG_ezG3YtI_9mfsn3g2V) -->
 
 ##  Lab Section
 * Group Presentations

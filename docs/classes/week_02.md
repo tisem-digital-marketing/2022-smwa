@@ -17,8 +17,9 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
 
 ## Video Lecture
 
-* [Slides][lecture-slides-03]
-* Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX)
+Coming Soon 
+<!-- * [Slides][lecture-slides-03] -->
+<!-- * Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX) -->
 
 ## Lab Section
 
