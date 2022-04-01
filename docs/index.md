@@ -11,13 +11,15 @@ This course introduces students to recent developments in the online marketing l
 
 ## Important Information
 
-:fontawesome-solid-circle-exclamation: [Course Syllabus](assets/syllabus.pdf)
+:fontawesome-solid-building-columns: Syllabus (coming soon) <!---[Course Syllabus](assets/syllabus.pdf) --->
+
+:fontawesome-solid-info: [Course Objectives](about/course_objectives)
 
 :fontawesome-solid-bell: [Announcements](about/announcements)
 
 ## Pre-Course Survey
 
-<!-- We will post a short survey that we expect participants to complete closer to the course start date. -->
+We will post a short survey that we expect participants to complete closer to the course start date.
 <!-- Please fill out the [pre-course survey](https://forms.gle/sqqjx1kmasjH8QHJ7) before the course begins. -->
 
 ## Slack Chat
