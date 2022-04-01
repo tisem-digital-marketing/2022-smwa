@@ -1,3 +1,5 @@
+# Group Presentations
+
 ## Format
 
 From Week 2 onwards, there will be two presentation slots in each Lab Section, each lasting 30 minutes.
@@ -8,9 +10,19 @@ Format:
 * **Panel Discussion**: approx. 10 mins of Q & A from another group.
 * **Open Discussion**: remaining time. 
 
-*Panel Discussion*: For each week, the two teams take turns as panel leading the Q & A.
-For example, when Group 1A presents, Group 1B takes the role of the Q & A panel and vice versa.
-Questions should be designed around developing a deeper understanding of the material presented, either in terms of marketing/managerial implications or details around the findings presented.
+!!! tip "Panel Discussion"
+    **Who will be the panel?** 
+
+    * For each week, the two teams take turns as panel leading the Q & A.
+    * For example, when Group 1A presents, Group 1B takes the role of the Q & A panel and vice versa.
+
+    **What should the panel ask?** 
+    
+    Potential questions could be based around:
+
+    * Developing a deeper understanding of the managerial / marketing implications
+    * Details on empirical strategy 
+    * Interpretation of results
 
 ## Groups
 
@@ -21,7 +33,14 @@ Students are randomly assigned to two groups, one per presentation.
 
 ## Topics
 
-Use the knowledge developed in the course from readings and lectures as a starting point to answer the fo
+Use the knowledge developed in the course from readings and lectures as a starting point to construct an answer to the following prompts. 
+You should use your research skills to go looking for additional material as necessary.
+
+!!! danger
+
+    All scenarios are entirely hypothetical, and do not reflect actual scenarios or current areas on research that any named company is facing or working on to the best of my knowledge. 
+
+Topics will be posted 2 weeks before a scheduled presentation so that all teams have an equal amount of preparation time.
 
 **Week 1**
 
