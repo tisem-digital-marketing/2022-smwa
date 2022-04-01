@@ -20,8 +20,8 @@ In his spare time he enjoys strumming his ukulele, improving his barista skills 
 ## Gijs van Bussel
 
 <!-- http://127.0.0.1:8000/docs/assets/figs/gijs.jpg -->
-
-<p style="text-align:center;"><img src="assets/figs/gijs.jpg" alt="Logo" width = "200"></p>
+<!-- https://tisem-digital-marketing.github.io/2022-smwa/about/instructors/assets/figs/gijs.jpg -->
+<p style="text-align:center;"><img src="../../assets/figs/gijs.jpg" alt="Logo" width = "200"></p>
 
 Gijs is a lecturer at the Marketing Department of the Tilburg School of Economics and Management and is involved in teaching activities across the Bachelors and Masters programs.
 His academic interests include improving educational practice in Marketing degree programs, data driven decision making and sports analytics.
