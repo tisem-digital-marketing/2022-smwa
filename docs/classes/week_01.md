@@ -14,24 +14,27 @@ These notes provide the background reading to work through the Lab Assignment.
 
 ## Video Lectures
 
+* [Weekly Overview][week-overview]
 * [Slides: Social Media Landscape][lecture-slides]
-* Videos as a [playlist](https://www.youtube.com/watch?v=O5FwDo-tSgI&list=PL9QkA7C7GRGXIC43pkTWyfQKkgXChs2E_)
+<!-- * Videos as a [playlist](https://www.youtube.com/watch?v=O5FwDo-tSgI&list=PL9QkA7C7GRGXIC43pkTWyfQKkgXChs2E_) -->
 <!-- * Watch the videos as a playlist, or individually: -->
 
-## Computer Lecture
+## Live Lecture
 
-* Course Introduction - To be posted closer to course start date
+* Course Introduction 
+    - To be posted closer to course start date
 
 ## Lab Section
 
-* Introductions
+* Getting to know each other
 * Accessing and Visualizing Twitter Data
+    * Material posted day before session
 
 ## Lab Assignment
 
 **Topic**: Collecting Social Media Data and Visualising Social Media Networks
 
-* [PDF][lab-01-q]
+<!-- * [PDF][lab-01-q] -->
 * [Link][lab-01-gh] to GitHub repo
 <!-- * [Suggested Solutions][lab-01-s] -->
 
@@ -58,8 +61,9 @@ These notes provide the background reading to work through the Lab Assignment.
 [lecture-networks]: ../assets/lectures/week-01/intro-networks.pdf
 [lecture-rtweet]: ../assets/lectures/week-01/intro-twitter-rtweet.pdf
 [lecture-slides]: ../assets/lectures/week-01/week-01-slides.pdf
+[week-overview]: ../assets/lectures/week-01/week-01-overview.pdf
 
-[lab-01-q]: ../assets/labs/lab-01_question.pdf
+<!-- [lab-01-q]: ../assets/labs/lab-01_question.pdf -->
 [lab-01-gh]: https://github.com/tisem-digital-marketing/smwa-lab-01
 [lab-01-s]: ../assets/labs/lab-01_solution.pdf
 
