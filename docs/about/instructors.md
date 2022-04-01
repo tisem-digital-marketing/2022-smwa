@@ -19,8 +19,11 @@ In his spare time he enjoys strumming his ukulele, improving his barista skills 
 
 ## Gijs van Bussel
 
-<!-- <p style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/62561616?v=4" alt="Logo" width = "200"></p> -->
+<p style="text-align:center;"><img src="../../docs/assets/figs/gijs.jpg" alt="Logo" width = "200"></p>
 
+Gijs is a lecturer at the Marketing Department of the Tilburg School of Economics and Management and is involved in teaching activities across the Bachelors and Masters programs.
+His academic interests include improving educational practice in Marketing degree programs, data driven decision making and sports analytics.
+Outside of the office Gijs' interests center around fitness and Sunday League Football. 
 <!-- 
 Hendrik is a lecturer at the Tilburg School of Economics and Management and is involved in various teaching activities. 
 His interests are aligned with the courses he teaches and coordinates, and the topics he supervises students in.
@@ -28,7 +31,7 @@ Those interests include general research methods, (social media) data analytics,
 His substantive interest are in access-based consumption, marketing in the sharing economy, and marketing and sustainability. 
 [Let’s connect on LinkedIn!](https://www.linkedin.com/in/h-de-with/) -->
 
-<!-- [**Sign Up to Hendrik's Office Hours**][calendly-hendrik] -->
+[**Sign Up to Gijs' Office Hours**][calendly-gijs]
 
-[calendly-hendrik]: https://calendly.com/h-j-c-dewith/15min
+[calendly-gijs]: TBA
 [calendly-lachlan]: https://calendly.com/lachlan-deer/office-hours
