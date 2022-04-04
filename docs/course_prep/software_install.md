@@ -21,7 +21,7 @@ Some OS specific extras:
 * **Mac Users** 
     * Non M1 (older): Install the [Rtoolchain](https://github.com/rmacoslib/r-macos-rtools#installer-package-for-macos-r-toolchain-). This will automatically take care of several steps like installing Xcode, etc.  
     * M1 (newer): While the new M1 chips offer incredible performance, unfortunately they require several finicky steps to play nicely with
-		some of the other tools that we might adopt. Please install Xcode by opening your Terminal and running \texttt{`xcode-select --install`}.
+		some of the other tools that we might adopt. Please install Xcode by opening your Terminal and running `xcode-select --install`.
 * **Windows Users**
     * Also install [Rtools](https://cran.r-project.org/bin/windows/Rtools/).
 
