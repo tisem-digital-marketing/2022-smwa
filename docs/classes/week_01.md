@@ -21,18 +21,22 @@ These notes provide the background reading to work through the Lab Assignment.
 
 ## Live Lecture
 
-* Course Introduction 
-    - To be posted closer to course start date
+* Course Introduction ([slides][course-intro])
+    <!-- - To be posted closer to course start date -->
 
 ## Lab Section
 
-* Getting to know each other
+We'll cover the following:
+
+<!-- * Getting to know each other -->
+* Tips for Group Presentations
+* Getting course material from GitHub
 * Accessing and Visualizing Twitter Data
     * Material posted day before session
 
 ## Lab Assignment
 
-**Topic**: Collecting Social Media Data and Visualising Social Media Networks
+**Topic**: Collecting Social Media Data and Visualizing Social Media Networks
 
 <!-- * [PDF][lab-01-q] -->
 * [Link][lab-01-gh] to GitHub repo
@@ -62,6 +66,7 @@ These notes provide the background reading to work through the Lab Assignment.
 [lecture-rtweet]: ../assets/lectures/week-01/intro-twitter-rtweet.pdf
 [lecture-slides]: ../assets/lectures/week-01/week-01-slides.pdf
 [week-overview]: ../assets/lectures/week-01/week-01-overview.pdf
+[course-intro]: ../assets/lectures/course_intro.pdf
 
 <!-- [lab-01-q]: ../assets/labs/lab-01_question.pdf -->
 [lab-01-gh]: https://github.com/tisem-digital-marketing/smwa-lab-01
