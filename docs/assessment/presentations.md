@@ -42,11 +42,10 @@ You should use your research skills to go looking for additional material as nec
 
 Topics will be posted 2 weeks before a scheduled presentation so that all teams have an equal amount of preparation time.
 
-**Week 1**
+### Week 2
 
-No presentations.
-
-**Week 2**
+* Submission link for [presentations](https://classroom.github.com/a/WvfmKaZ6)
+* Submission link for [reflections](https://classroom.github.com/a/VSGOmHdM)
 
 *Topic 1*: 
 
@@ -55,6 +54,10 @@ TikTok’s User Experience team is worried about the amount of lurkers on their 
 *Topic 2*:
 
 Reddit’s Customer Analytics team wants to understand potential reasons why users contribute to their site, either by posting original content or commenting on the posts of others. Design a project that can potentially disentangle user motivations along with an empirical strategy to test for the prevalence of the each, and potentially classify a user by their motivations.
+
+### Week 1
+
+No presentations.
 
 <!-- **Week 3**
 
