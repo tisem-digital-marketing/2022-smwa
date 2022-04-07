@@ -35,5 +35,5 @@ His substantive interest are in access-based consumption, marketing in the shari
 
 [**Sign Up to Gijs' Office Hours**][calendly-gijs]
 
-[calendly-gijs]: TBA
+[calendly-gijs]: https://canvas.uvt.nl/
 [calendly-lachlan]: https://calendly.com/lachlan-deer/office-hours
