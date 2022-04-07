@@ -14,6 +14,10 @@ These notes provide the background reading to work through the Lab Assignment.
 
 ## Video Lectures
 
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=g2eUMLYN2vo&list=PL9QkA7C7GRGWQZZNWS5rNMXJ3L_xxz5dH)
+
+Slides:
+
 * [Weekly Overview][week-overview]
 * [Slides: Social Media Landscape][lecture-slides]
 <!-- * Videos as a [playlist](https://www.youtube.com/watch?v=O5FwDo-tSgI&list=PL9QkA7C7GRGXIC43pkTWyfQKkgXChs2E_) -->
