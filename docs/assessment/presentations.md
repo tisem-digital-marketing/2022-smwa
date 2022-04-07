@@ -36,7 +36,7 @@ Students are randomly assigned to two groups, one per presentation.
 Use the knowledge developed in the course from readings and lectures as a starting point to construct an answer to the following prompts. 
 You should use your research skills to go looking for additional material as necessary.
 
-!!! danger
+!!! danger "Scenarios are Hypothetical!"
 
     All scenarios are entirely hypothetical, and do not reflect actual scenarios or current areas on research that any named company is facing or working on to the best of my knowledge. 
 
