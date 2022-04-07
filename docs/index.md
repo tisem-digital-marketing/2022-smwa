@@ -11,7 +11,7 @@ This course introduces students to recent developments in the online marketing l
 
 ## Important Information
 
-:fontawesome-solid-building-columns: Syllabus (coming soon) <!---[Course Syllabus](assets/syllabus.pdf) --->
+:fontawesome-solid-building-columns: [Course Syllabus](assets/syllabus.pdf)
 
 :fontawesome-solid-info: [Course Objectives](about/course_objectives)
 
