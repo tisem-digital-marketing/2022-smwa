@@ -13,8 +13,10 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa.slack.c
 
     We particularly draw your attention to the following:
 
-    * **[Pre-Course Survey](https://forms.gle/sqqjx1kmasjH8QHJ7)**.
+    * **[Pre-Course Survey](https://forms.gle/mJj3kEqPrxuFBxHT9)**.
         * Please fill this out before the course begins.
+
+    * **Choose a Lab Section**: Please use [Canvas](https://canvas.uvt.nl/) to sign up for a Lab Section. If you have not chosen one by Thursday at 5pm CEST, the instructors will allocate you to a section randomly. If you are allocated, there is no opportunity to change sections.
 
     * **Course Preparation**. We've provided some materials to help you install the required software and refresh your Git and R skills before starting the class. Check it out before the course begins.
 
@@ -24,7 +26,7 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa.slack.c
 
     To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://tisem-digital-marketing.github.io/2022-smwa/about/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://tisem-smwa-2022.slack.com/signup#/).
 
-    We look forward to seeing you at our kick off meeting on Tuesday April 12, at 12:45pm. 
+    We look forward to seeing you at our kick off lecture on Tuesday April 12, at 12:45pm. 
 
     Best,
 
