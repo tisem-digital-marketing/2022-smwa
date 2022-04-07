@@ -14,7 +14,7 @@ Format:
     **Who will be the panel?** 
 
     * For each week, the two teams take turns as panel leading the Q & A.
-    * For example, when Group 1A presents, Group 1B takes the role of the Q & A panel and vice versa.
+    * For example, when Group A presents, Group B takes the role of the Q & A panel and vice versa.
 
     **What should the panel ask?** 
     
@@ -48,11 +48,15 @@ No presentations.
 
 **Week 2**
 
-Group 1 A: TBA
+*Topic 1*: 
 
-Group 1 B: TBA
+TikTok’s User Experience team is worried about the amount of lurkers on their platform and wants to design a new strategy to get them to engage with or post content. Propose a potential strategy that could lead to increases in either form of engagement by lurkers along with an empirical strategy to test whether the strategy is effective.
 
-**Week 3**
+*Topic 2*:
+
+Reddit’s Customer Analytics team wants to understand potential reasons why users contribute to their site, either by posting original content or commenting on the posts of others. Design a project that can potentially disentangle user motivations along with an empirical strategy to test for the prevalence of the each, and potentially classify a user by their motivations.
+
+<!-- **Week 3**
 
 Group 1 C: TBA
 
@@ -80,4 +84,4 @@ Group 2 D: TBA
 
 Group 2 E: TBA
 
-Group 2 F: TBA
+Group 2 F: TBA -->
