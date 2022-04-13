@@ -10,6 +10,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 These notes provide the background reading to work through the Lab Assignment.
 
 * [A First Introduction to Networks with R][lecture-networks]
+    * [The Dataset][lecture-networks-data]
 * [Introduction to the Twitter API and rtweet][lecture-rtweet]
 
 ## Video Lectures
@@ -66,6 +67,7 @@ We'll cover the following:
 [socialmedia-summary]: https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/
 
 [lecture-networks]: ../assets/lectures/week-01/intro-networks.pdf
+[lecture-networks-data]: ../assets/lectures/week-01/networks-lecture-data.zip
 [lecture-rtweet]: ../assets/lectures/week-01/intro-twitter-rtweet.pdf
 [lecture-slides]: ../assets/lectures/week-01/week-01-slides.pdf
 [week-overview]: ../assets/lectures/week-01/week-01-overview.pdf
