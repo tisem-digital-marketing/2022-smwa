@@ -6,7 +6,7 @@ This course introduces students to recent developments in the online marketing l
 
 !!! tip "Course Status: Running"
 
-    Last Update: April 13, 2022
+    Last Update: April 14, 2022
 
 <!-- !!! bug "Site Under Development"
     
