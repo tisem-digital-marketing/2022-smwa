@@ -15,10 +15,10 @@ This book is a "go-to" for text analytics:
 
 ## Video Lecture
 
-Coming Soon
+Videos coming Soon
 
-<!-- * [Slides: Online Reputation][lecture-slides-02]
-* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc) -->
+* [Slides: Online Reputation][lecture-slides-03]
+<!---* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc) -->
 
 ## Computing Lecture
 
@@ -56,4 +56,4 @@ These readings are optional, and designed to give interested students a place to
 
 [lab-03]: https://github.com/tisem-digital-marketing/smwa-lab-03
 [lab-03-s]: ../assets/labs/lab-03_solution.pdf
-[lecture-slides-02]: ../assets/lectures/week-02/week-02-slides.pdf
+[lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf

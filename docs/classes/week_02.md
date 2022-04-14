@@ -17,8 +17,9 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
 
 ## Video Lecture
 
-Coming Soon 
-<!-- * [Slides][lecture-slides-03] -->
+Videos coming Soon 
+
+* [Slides][lecture-slides-02]
 <!-- * Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX) -->
 
 ## Lab Section
@@ -37,10 +38,8 @@ Coming Soon
 [regression-errors]: ../assets/lectures/week-02/regression-standard-errors.pdf
 [regression-r]: ../assets/lectures/week-02/regression-r.pdf
 
-
-[lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
-
 [lecture-slides-02]: ../assets/lectures/week-02/week-02-slides.pdf
+
 [lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
 [lab-02-s]: ../assets/labs/lab-02_solution.pdf
 
