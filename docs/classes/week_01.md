@@ -37,6 +37,7 @@ We'll cover the following:
 * Tips for Group Presentations
 * Getting course material from GitHub
 * Accessing and Visualizing Twitter Data (GitHub repo [here][smwa-cl01])
+    * Instructor Code (GitHub repo [here][smwa-cl01-ans])
 
 ## Lab Assignment
 
@@ -79,3 +80,4 @@ We'll cover the following:
 
 [demo-01]: https://github.com/tisem-digital-marketing/smwa-demo-01
 [smwa-cl01]: https://github.com/tisem-digital-marketing/smwa-computing-lecture-twitter-networks
+[smwa-cl01-ans]: https://github.com/tisem-digital-marketing/smwa-computing-lecture-twitter-networks/tree/instructor
