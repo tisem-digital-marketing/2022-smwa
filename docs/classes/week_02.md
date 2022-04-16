@@ -19,7 +19,8 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
 
 Videos coming Soon 
 
-* [Slides][lecture-slides-02]
+* [Weekly Overview][week-overview]
+* [Slides: Causality and Difference in Differences][lecture-slides-02]
 <!-- * Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX) -->
 
 ## Lab Section
@@ -39,6 +40,7 @@ Videos coming Soon
 [regression-r]: ../assets/lectures/week-02/regression-r.pdf
 
 [lecture-slides-02]: ../assets/lectures/week-02/week-02-slides.pdf
+[week-overview]: ../assets/lectures/week-02/week-02-overview.pdf
 
 [lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
 [lab-02-s]: ../assets/labs/lab-02_solution.pdf
