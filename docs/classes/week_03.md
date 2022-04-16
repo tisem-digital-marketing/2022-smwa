@@ -15,7 +15,7 @@ This book is a "go-to" for text analytics:
 
 ## Video Lecture
 
-Videos coming Soon
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=yAfmk5pdo3Y&list=PL9QkA7C7GRGWMs3VSegVwo1SriQ5NbrQ1)
 
 * [Weekly Overview][week-overview]
 * [Slides: Online Reputation][lecture-slides-03]
