@@ -17,7 +17,7 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
 
 ## Video Lecture
 
-Videos coming Soon 
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=bRGQ-JeNz4w&list=PL9QkA7C7GRGX6llNC5XQmfa7IDAOZGrT3)
 
 * [Weekly Overview][week-overview]
 * [Slides: Causality and Difference in Differences][lecture-slides-02]
