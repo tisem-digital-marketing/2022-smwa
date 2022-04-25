@@ -42,6 +42,18 @@ You should use your research skills to go looking for additional material as nec
 
 Topics will be posted 2 weeks before a scheduled presentation so that all teams have an equal amount of preparation time.
 
+### Week 3
+
+* Submission link for [presentations](https://classroom.github.com/a/RIO7Okgo)
+* Submission link for [reflections](https://classroom.github.com/a/nJ4mCSF6)
+
+*Topic 1*:
+
+Bol.com’s Seller Experience team is looking to expand the number of third party vendors who sell on the site. One problem they are facing is that new vendors have less, and noisier reviews by consumers about their reputation. Propose a new strategy that they could adopt to help new seller’s reputations on Bol.com and an analytical framework that you could use to test whether this strategy is successful.
+
+*Topic 2*:
+
+The Dutch Authority for Consumers and Markets (ACM) has recently located and successfully shut down a market for fake reviews within the Netherlands that specialized in fake reviews for Washing Machines and Dryers. Cool Blue’s Head of Data & Analytics team has reached out to your group to understand the effect this might have on the company. Why would fake reviews potentially matter for CoolBlue and how might your team go about evaluating what the effects of the fake review shutdown are?
 ### Week 2
 
 * Submission link for [presentations](https://classroom.github.com/a/WvfmKaZ6)
