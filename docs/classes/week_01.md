@@ -45,7 +45,7 @@ We'll cover the following:
 
 <!-- * [PDF][lab-01-q] -->
 * [Link][lab-01-gh] to GitHub repo
-<!-- * [Suggested Solutions][lab-01-s] -->
+* [Suggested Solutions][lab-01-s]
 
 ## Additional Readings
 
