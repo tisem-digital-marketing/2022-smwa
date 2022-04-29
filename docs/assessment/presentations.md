@@ -42,6 +42,19 @@ You should use your research skills to go looking for additional material as nec
 
 Topics will be posted 2 weeks before a scheduled presentation so that all teams have an equal amount of preparation time.
 
+### Week 4
+
+* Submission Link for [presentations](https://classroom.github.com/a/D2njvcF_)
+* Submission Link for [reflections](https://classroom.github.com/a/YKjLbalB)
+
+*Topic 1* 
+
+While working in Activision Blizzard’s (a large video game publisher) Marketing Analytics team you’ve been assigned the task to quantify the effect of Word of Mouth (Volume and Sentiment) on the demand for its video games. Propose an empirical strategy that would allow them to estimate these effects credibly without the need for experimentation. When pitching your strategy, discuss why an experiment is most likely not feasible.
+
+*Topic 2*
+
+Yelp.com’s Customer Experience team has discovered a stark difference in the ratings of national chain restaurants vs independent restaurants: The modal review for a Chain is 1 star out of 5 whereas for independent restaurants it is 5 stars of 5. After presenting this stylized fact to the larger data science group, they’ve identified that the next phase of analysis should aim to discover why this might be the case and have assigned your team to lead the analytics. Develop an empirical strategy to answer this question, and relate the (expected) findings back to consumer behaviour.
+
 ### Week 3
 
 * Submission link for [presentations](https://classroom.github.com/a/RIO7Okgo)
