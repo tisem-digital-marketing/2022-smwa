@@ -24,6 +24,7 @@ This book is a "go-to" for text analytics:
 ## Computing Lecture
 
 * Intro to Text Analytics ([Git Hub Repo][computing-lecture])
+    * Code similar to what we did live in class [here][computing-lecture-solution]
 
 ## Lab Section
 
@@ -60,3 +61,4 @@ These readings are optional, and designed to give interested students a place to
 [lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
 [week-overview]: ../assets/lectures/week-03/week-03-overview.pdf
 [computing-lecture]: https://github.com/tisem-digital-marketing/smwa-computing-lecture-intro-text
+[computing-lecture-solution]: https://github.com/tisem-digital-marketing/smwa-computing-lecture-intro-text/tree/instructor
