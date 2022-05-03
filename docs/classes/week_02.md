@@ -32,7 +32,7 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
 
 * [Link][lab-02] to GitHub repository 
     * Questions with an answer template contained in repo
-<!-- * [Partial Solutions][lab-02-s] -->
+* [Partial Solutions][lab-02-s]
 
 [goldfarb-tucker]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420920
 
