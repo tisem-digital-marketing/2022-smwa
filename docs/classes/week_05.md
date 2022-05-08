@@ -15,19 +15,21 @@ This book is a "go-to" for text analytics:
 
 ## Video Lecture
 
-Coming Soon
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=BPdQBgBasec&list=PL9QkA7C7GRGVaTgiENznV_iVsB8_n9sVo)
 
-<!-- * [Slides][lecture-slides-05]
-* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXTPHyyUtAsN7d9bEHx1pYL) -->
+* [Weekly Overview][week-overview]
+* [Slides][lecture-slides-05]
+
 
 ## Computing Lecture
 
 * Next steps in Text Analytics
+    * Coming Soon!
 
 ## Lab Section
 
 * Group Presentations
-* Review of Lab 4
+* Review of Lab Assignment 4
 
 ## Lab Assignment
 
@@ -42,3 +44,4 @@ Coming Soon
 [lab-05]: https://github.com/tisem-digital-marketing/smwa-lab-05
 [lab-05-s]: ../assets/labs/lab-05_solution.pdf
 [lecture-slides-05]: ../assets/lectures/week-05/week-05-slides.pdf
+[week-overview]: ../assets/lectures/week-05/week-05-overview.pdf
