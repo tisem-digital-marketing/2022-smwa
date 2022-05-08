@@ -33,7 +33,7 @@ This book is a "go-to" for text analytics:
 ## Lab Assignment
 
 * [Link][lab-03] to GitHub repository 
-<!-- * [Suggested Solutions][lab-03-s] -->
+* [Suggested Solutions][lab-03-s]
 
 ## Additional Readings
 
