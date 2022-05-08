@@ -9,10 +9,10 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-Coming Soon
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=xd72q27HpHo&list=PL9QkA7C7GRGUlZQhkTpZZpeu5Yus6jo4c)
 
-<!-- * [Slides][lecture-slides-04]
-* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXJkG_ezG3YtI_9mfsn3g2V) -->
+* [Weekly Overview][week-overview]
+* [Slides][lecture-slides-04]
 
 ##  Lab Section
 * Group Presentations
@@ -31,4 +31,4 @@ Coming Soon
 [lab-04]: https://github.com/tisem-digital-marketing/smwa-lab-04
 [lab-04-s]: ../assets/labs/lab-04_solution.pdf
 [lecture-slides-04]: ../assets/lectures/week-04/week-04-slides.pdf
-[demo-tidytext]: https://github.com/tisem-digital-marketing/demo-tidytext-01
+[week-overview]: ../assets/lectures/week-04/week-04-overview.pdf
