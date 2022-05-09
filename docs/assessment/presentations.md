@@ -42,6 +42,19 @@ You should use your research skills to go looking for additional material as nec
 
 Topics will be posted 2 weeks before a scheduled presentation so that all teams have an equal amount of preparation time.
 
+### Week 5
+
+* Submission Link for [presentations](https://classroom.github.com/a/EdUjq__E)
+* Submission Link for [reflections](https://classroom.github.com/a/_aBevOnY)
+
+*Topic A:*
+
+Your team has been hired by Influentials (a European Influencer agency) to assess the performance of various influencer segments as defined by their reach in generating customer engagement. The firm is open in letting you analyse any of their data, and is willing to listen to possible ideas for an experiment to be part of the analysis strategy. Propose an analysis strategy that will allow you to measure the performance of different influencer segments and explain the implications your findings could lead to.
+
+*Topic B:*
+
+Suppose Instagram (owned by Meta) has launched a project to understand how they can earn additional revenue from influencer posts. Assume that at present Instagram does not charge an influencer or the company the influencer is hired by for a sponsored post. Propose an analysis strategy that could deliver a causal estimate of the effect of monetizing influencer posts for Instagram. In developing your presentation be sure to provide some strategic guidance on how they could scale this up and implement your solution across the whole platform. Are there any guardrail metrics they should track?
+
 ### Week 4
 
 * Submission Link for [presentations](https://classroom.github.com/a/D2njvcF_)
