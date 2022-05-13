@@ -42,6 +42,19 @@ You should use your research skills to go looking for additional material as nec
 
 Topics will be posted 2 weeks before a scheduled presentation so that all teams have an equal amount of preparation time.
 
+### Week 6
+
+* Submission Link for [presentations](https://classroom.github.com/a/_Qi7Qa19)
+* Submission Link for [reflections](https://classroom.github.com/a/3vhzn87t)
+
+Topic A:
+
+Peter Panda (@peter_pannnda) is about to launch a new startup called Plushfluence that helps members of the Instagram plushie community increase the likeability / virality of their posts. Propose an analytics framework to analyse what makes plushie posts more “likeable”, and a framework to test whether your findings can be supported.
+
+Topic B:
+
+Building on existing knowledge on improvised marketing interventions (IMI), the company ViralBrand has hired your team to develop an understanding about how and why IMI increases consumer brand engagement and perceptions. Develop a plan that allows you to investigate how IMI influences these key metrics and isolate what components of an IMI strategy are most effective.  
+
 ### Week 5
 
 * Submission Link for [presentations](https://classroom.github.com/a/EdUjq__E)
