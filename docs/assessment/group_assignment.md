@@ -22,7 +22,7 @@
 
 * **Due Date**: June 3 at 23:59pm
 * **Groups**: See Canvas
-* Assignment Link: TBA
+* Assignment Link: [Click here](https://classroom.github.com/a/sHJVOX2X)
 <!-- * **Assignment link**: [Click here](https://classroom.github.com/g/7Dfem_4t)
     * Group leaders should accept the assignment and add their team members
     * Assignment README documents how to do this.  -->
