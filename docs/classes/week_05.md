@@ -23,8 +23,9 @@ This book is a "go-to" for text analytics:
 
 ## Computing Lecture
 
-* Next steps in Text Analytics
-    * Coming Soon!
+* Sentiment Analysis
+    * Starting code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-sentiment)
+    * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-sentiment/tree/instructor)
 
 ## Lab Section
 
