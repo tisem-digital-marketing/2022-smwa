@@ -21,7 +21,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 ## Lab Assignment
 
 * [Link][lab-04] to GitHub repository 
-<!-- * [Partial Solution][lab-04-s] -->
+* [Partial Solution][lab-04-s]
 <!-- * [Code][demo-tidytext] from Lachlan's Discussion section -->
 
 [seiler]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2692861
