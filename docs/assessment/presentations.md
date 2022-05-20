@@ -42,6 +42,24 @@ You should use your research skills to go looking for additional material as nec
 
 Topics will be posted 2 weeks before a scheduled presentation so that all teams have an equal amount of preparation time.
 
+### Week 7
+
+* Submission Link for [presentations](https://classroom.github.com/a/guTZd66H)
+* Submission Link for [reflections](https://classroom.github.com/a/uw_PTTLm)
+
+Topic A:
+
+After the Cambridge Analytica scandal Facebook (now Meta) wants to refocus the topics of conversation consumers are discussing online about the company. 
+They propose airing a new TV ad that centres on their focus on their new rules around data privacy. Your team at Facebook Ads has been asked to test whether this ad is effective. 
+Propose an analysis that would test the ad’s effectiveness. 
+In your analysis carefully think through how the marketing strategy might backfire and how you could monitor whether this is the case.
+
+Topic B: 
+
+In response to the onset of the COVID-19 pandemic in early 2020 the US Center for Disease control is encouraging the general population to stay at home. 
+They have reached out to your Marketing Analytics team at a large consulting firm to assess the effectiveness of asking celebrities to tweet encouraging people to stay at home and use the hashtag #stayhomesavelives as opposed to similar messages being sent from the official CDC account. 
+Develop an empirical strategy to test the relative effectiveness, and consider whether using celebrities might cause different shifts in the way the public discuss the pandemic.
+
 ### Week 6
 
 * Submission Link for [presentations](https://classroom.github.com/a/_Qi7Qa19)
