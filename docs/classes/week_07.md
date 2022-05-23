@@ -10,7 +10,10 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-Coming Soon
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=voNtfUYblPk&list=PL9QkA7C7GRGX8Jz08HCs10shaj_Ui-zGa)
+
+* [Weekly Overview][week-overview]
+* [Slides][lecture-slides-07]
 
 <!-- * [Slides][lecture-slides-07]
 * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGV7IX9hxDS_xYRDX4_4-QOg) -->
@@ -18,7 +21,7 @@ Coming Soon
 ## Computer Lecture
 
 * Measuring Influence in a Network
-* Class Review
+    * Material Coming Soon
 
 ## Lab Section
 
@@ -34,3 +37,4 @@ No new lab this week!
 [lovett]: https://link.springer.com/article/10.1007/s11129-019-09211-9
 
 [lecture-slides-07]: ../assets/lectures/week-07/week-07-slides.pdf
+[week-overview]: ../assets/lectures/week-07/week-07-overview.pdf

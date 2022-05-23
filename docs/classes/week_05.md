@@ -11,7 +11,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 This book is a "go-to" for text analytics:
 
 * [Tidy Text Mining with R][tidytext]
-    * Chapters 5 and 6 (also revisit Chapter 2)
+    * Chapter 2
 
 ## Video Lecture
 
@@ -35,7 +35,7 @@ This book is a "go-to" for text analytics:
 ## Lab Assignment
 
 * [Link][lab-05] to GitHub repository 
-<!-- * [Partial Solutions][lab-05-s] -->
+* [Partial Solutions][lab-05-s]
 
 [aral]: https://static1.squarespace.com/static/5e680023bf798b61525c7831/t/5ed0fc2daa179d0d0a3bf5ed/1590754350409/identifying-influential-and-susceptible-members-of-social-networks.pdf
 [zhang]: https://journals.sagepub.com/doi/pdf/10.1177/0022242920985784
