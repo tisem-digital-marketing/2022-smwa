@@ -52,3 +52,4 @@ No new lab this week!
 [mna]: https://bookdown.org/markhoff/social_network_analysis/
 [cda]: https://towardsdatascience.com/community-detection-algorithms-9bd8951e7dae#:~:text=on%20the%20domain.-,Community%20Detection%20Techniques,edge%20to%20the%20weaker%20edge.
 [nda]: http://pablobarbera.com/big-data-upf/html/02b-networks-descriptive-analysis.html
+[asnar]: https://gvegayon.github.io/appliedsnar/
