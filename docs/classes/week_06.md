@@ -35,7 +35,7 @@ This book is a "go-to" for text analytics:
 ## Lab Assignment
 
 * [Link][lab-06] to GitHub repository 
-<!-- * [Partial Solutions][lab-06-s] -->
+* [Partial Solutions][lab-06-s]
 
 [tellis]: https://journals.sagepub.com/doi/10.1177/0022242919841034
 [borah]: https://journals.sagepub.com/doi/full/10.1177/0022242919899383
