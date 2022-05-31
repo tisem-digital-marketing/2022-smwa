@@ -8,6 +8,14 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Tweeting as a Marketing Tool: A Field Experiment in the TV Industry][gong]
 * [Can your advertising really buy earned impressions? The effect of brand advertising on word of mouth][lovett]
 
+For the computing lecture:
+
+* ['Centrality'][centrality], from Mark Hoffman's [Methods for Network Analysis][mna]
+* [Community Detection Algorithms][cda] by Thamindu Dilshan Jayawickrama
+* [Networks: Descriptive Analysis][nda] by Pablo Barbera
+
+Note: codes from these readings may use different packages or software.
+
 ## Video Lecture
 
 :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=voNtfUYblPk&list=PL9QkA7C7GRGX8Jz08HCs10shaj_Ui-zGa)
@@ -21,7 +29,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 ## Computer Lecture
 
 * Measuring Influence in a Network
-    * Material Coming Soon
+    * Starting Code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks)
+    * Instructor's code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks/tree/instructor)
 
 ## Lab Section
 
@@ -38,3 +47,8 @@ No new lab this week!
 
 [lecture-slides-07]: ../assets/lectures/week-07/week-07-slides.pdf
 [week-overview]: ../assets/lectures/week-07/week-07-overview.pdf
+
+[centrality]: https://bookdown.org/markhoff/social_network_analysis/centrality.html
+[mna]: https://bookdown.org/markhoff/social_network_analysis/
+[cda]: https://towardsdatascience.com/community-detection-algorithms-9bd8951e7dae#:~:text=on%20the%20domain.-,Community%20Detection%20Techniques,edge%20to%20the%20weaker%20edge.
+[nda]: http://pablobarbera.com/big-data-upf/html/02b-networks-descriptive-analysis.html
