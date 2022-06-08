@@ -1,6 +1,7 @@
 # Course Website: Social Media and Web Analytics, 2022-TiSEM
 
 [![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml/badge.svg)](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6624035.svg)](https://doi.org/10.5281/zenodo.6624035)
 
 ## Meta-Information
 
